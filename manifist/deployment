@@ -1,0 +1,4 @@
+apiVersion: v1
+kind: D eployme  nt
+spec:
+  replicas: 3
